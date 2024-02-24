@@ -1,2 +1,2 @@
 Sample Git Tool 
-Created by Arun krishnan K
+Created by Arun Krishnan K
